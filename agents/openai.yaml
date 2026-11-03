@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 与普通 Chat 协作验收"
+  short_description: "用普通 Chat 获取方案，让它通过 Remote Desktop Commander 验收本地成果"
+  default_prompt: "用 $codex-chat-review-loop 与普通 Chat 协作，按我当前请求的阶段执行；只有我指定 Pro 时才选择 Pro。"
